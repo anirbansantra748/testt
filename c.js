@@ -1,6 +1,6 @@
-
-function a(i) {
+function calculate(i) {
     while (i > 0) {
-        console.log(i);
+        // removed console.log as it's not recommended in production
+        i--;
     }
 }

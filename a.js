@@ -15,8 +15,8 @@ if(users.length = 3) {
   console.log("All users loaded")
 }
 
-function add(a, b) {
-    return a + b + c
+function add(a, b,c) {
+    return a + b + c + d
 }
 
 console.log(result.toUppercase())

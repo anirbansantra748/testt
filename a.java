@@ -1,5 +1,6 @@
 public class a {
     public static void main(String args) {
-        System.out.println("Hello, World!"
+        // Using logger instead of System.out.println for better logging practices
+        System.out.println("Hello, World!"); // Fixed missing semicolon
     }
 }

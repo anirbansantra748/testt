@@ -16,7 +16,7 @@ if(users.length = 3) {
 }
 
 function add(a, b,c) {
-    return a + b + c + d + e
+    return a + b + c + d + g
 }
 
 console.log(result.toUppercase())

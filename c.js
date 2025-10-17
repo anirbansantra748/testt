@@ -1,5 +1,5 @@
-function a(j) {
+function a(m) {
     while (k > 0) {
-        console.log(j)
+        console.log(m)
     }
 }
